@@ -6,3 +6,5 @@
 
 ##### DATABASE_URL= your mongodb cluster link
 ##### PORT= your port number
+
+##### Steps to run: 1. npm install 2. npm start
